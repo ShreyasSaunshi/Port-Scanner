@@ -28,7 +28,7 @@ Welcome to the PortScanner Web App, a versatile and lightweight collection of we
 
 4. Review the results and use the tools to assist with your network or security tasks.
 
-## Tools
+## Tools and Languages
 
 The following tools help make it easier to work with sample code.
 
@@ -39,7 +39,7 @@ The following tools help make it easier to work with sample code.
 - [Visual Studio Code](https://code.visualstudio.com/):VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages.
 - [Echo Post](https://github.com/craigshoemaker/echo-post): A simple Node.js server utility that displays post data.
-- 
+
 ## Deployment
 
 You can deploy this Multi-Tool Web App on your own web server. Just clone this repository and host the HTML, JavaScript, and CSS files on your server or a static file hosting service.

@@ -36,7 +36,7 @@ The following tools help make it easier to work with sample code.
 - [CSS](https://css.com): Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML
 - [JavaScript](https://javascript.com): JavaScript  is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
 - [GitHub](https://github.com): GitHub is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code
-- [Visual Studio Code](https://code.visualstudio.com/):VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS
+- [Visual Studio Code](https://code.visualstudio.com/): VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages.
 - [Echo Post](https://github.com/craigshoemaker/echo-post): A simple Node.js server utility that displays post data.
 
@@ -52,4 +52,4 @@ We welcome contributions and feature requests from the open-source community. Fe
 
 This PortScanner Web App is released under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for your own purposes.
 
-Thank you for using the Multi-Tool Web App, and we hope it proves to be a valuable addition to your network and security toolbox.
+Thank you for using the Port-Scanner Web App, and we hope it proves to be a valuable addition to your network and security toolbox.

@@ -28,6 +28,18 @@ Welcome to the PortScanner Web App, a versatile and lightweight collection of we
 
 4. Review the results and use the tools to assist with your network or security tasks.
 
+## Tools
+
+The following tools help make it easier to work with sample code.
+
+- [HTML](https://html.com): The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser
+- [CSS](https://css.com): Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML
+- [JavaScript](https://javascript.com): JavaScript  is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS.
+- [GitHub](https://github.com): GitHub is a platform and cloud-based service for software development and version control using Git, allowing developers to store and manage their code
+- [Visual Studio Code](https://code.visualstudio.com/):VS Code, is a source-code editor made by Microsoft with the Electron Framework, for Windows, Linux and macOS
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages.
+- [Echo Post](https://github.com/craigshoemaker/echo-post): A simple Node.js server utility that displays post data.
+- 
 ## Deployment
 
 You can deploy this Multi-Tool Web App on your own web server. Just clone this repository and host the HTML, JavaScript, and CSS files on your server or a static file hosting service.
